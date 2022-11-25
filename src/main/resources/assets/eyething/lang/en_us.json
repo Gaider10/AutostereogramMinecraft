@@ -1,0 +1,21 @@
+{
+  "key.categories.eyething": "Autostereogram",
+  "key.eyething.toggle_mod": "Toggle Mod",
+  "key.eyething.open_config": "Open Config Screen",
+  "key.eyething.increase_distance": "Increase View Distance",
+  "key.eyething.decrease_distance": "Decrease View Distance",
+
+  "text.autoconfig.eyething.title": "Autostereogram Config",
+
+  "text.autoconfig.eyething.category.main": "Main",
+  "text.autoconfig.eyething.option.ppi": "Pixels per inch",
+  "text.autoconfig.eyething.option.ppi.@Tooltip": "Pixels per inch of your monitor",
+  "text.autoconfig.eyething.option.eyeSepCm": "Eye separation",
+  "text.autoconfig.eyething.option.eyeSepCm.@Tooltip": "Distance between your eyes in cm",
+  "text.autoconfig.eyething.option.eyeDistCm": "Eye distance",
+  "text.autoconfig.eyething.option.eyeDistCm.@Tooltip": "Distance from your eyes to your monitor in cm",
+
+  "text.autoconfig.eyething.category.advanced": "Advanced",
+  "text.autoconfig.eyething.option.maxDepthFact": "Max depth factor",
+  "text.autoconfig.eyething.option.sepFact": "Separation factor"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "eyething",
+  "version": "${version}",
+
+  "name": "Autostereogram",
+  "description": "",
+  "authors": [
+    "Gaider10"
+  ],
+  "contact": {
+    "sources": "https://github.com/Gaider10/AutostereogramMinecraft"
+  },
+
+  "license": "MIT",
+
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "me.andrew.eyething.EyeThingMod"
+    ],
+    "modmenu": [
+      "me.andrew.eyething.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "eyething.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.19.x",
+    "java": ">=17",
+    "cloth-config": "*"
+  }
+}
